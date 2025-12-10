@@ -52,6 +52,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dfnc01/dfnc01/output/snake.svg" alt="Snake animation" />
-
-###
