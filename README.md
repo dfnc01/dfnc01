@@ -1,16 +1,4 @@
-.github/workflows
-
-
-snake.yml
-
-
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
-<h2 align="left">Hi 👋! My name is dfnc and I am a human from another world.</h2>
+<h1 align="left">Hi 👋! My name is dfnc and I am a human from another world.</h1>
 
 ###
 
@@ -60,10 +48,10 @@ Fork on Github
 
 ###
 
-<img src="https://raw.githubusercontent.com/dfnc01/dfnc01/output/snake.svg" alt="Snake animation" />
+<h1 align="center">JUST STUDENT</h1>
 
 ###
 
-<h1 align="center">JUST STUDENT</h1>
+<img src="https://raw.githubusercontent.com/dfnc01/dfnc01/output/snake.svg" alt="Snake animation" />
 
 ###
